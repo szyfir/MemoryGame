@@ -1,21 +1,47 @@
 ﻿body 
 {
-    font-family: 'Shadows Into Light', cursive;
-    text-align:center;
-    background-color:black;
-    color:#ff9c00;
-    font-size:60px;
+	font-family: 'Shadows Into Light', cursive;
+	text-align:center;
+	background-color:black;
+	color:#ff9c00;
+	font-size:60px;
+
+
 }
 .link
 {
-    text-decoration:none;
-    color:#ff9c00;
+	text-decoration:none;
+	color:#ff9c00;
 }
-.link:hover
+a.link:hover
 {
-    color:#ffd800;
+	color:#ffd800;  
 }
-.link:active
+a.link:active
 {
-    color:#ffd800;
+	color:#ff9c00;
+}
+.field
+{
+	width:750px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:40px;
+	text-align:center;
+}
+.card
+{
+	width:120px;
+	height:160px;
+	display:inline-block;
+	margin:3px;
+	border:4px double #ff9c00;
+	border-radius:4px;
+	cursor:pointer;
+	background-image:url("/Images/layout.png");
+}
+.card:hover
+{
+	transform:scale(1.1);
+	border:4px double #ffd800;  
 }

@@ -108,6 +108,10 @@
   <ItemGroup>
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Images\ahri.png" />
+    <Content Include="Images\layout.png" />
+    <Content Include="scripts\first.js" />
+    <Content Include="scripts\jquery-3.2.1.min.js" />
     <Content Include="style\maincss.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -126,7 +130,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <PropertyGroup>
