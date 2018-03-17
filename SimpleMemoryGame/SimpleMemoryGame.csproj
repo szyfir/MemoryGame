@@ -94,6 +94,13 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\layout.png" />
+    <Content Include="Images\s0.png" />
+    <Content Include="Images\s1.png" />
+    <Content Include="Images\s2.png" />
+    <Content Include="Images\s3.png" />
+    <Content Include="Images\s4.png" />
+    <Content Include="Images\s5.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -108,8 +115,6 @@
   <ItemGroup>
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="Images\ahri.png" />
-    <Content Include="Images\layout.png" />
     <Content Include="scripts\first.js" />
     <Content Include="scripts\jquery-3.2.1.min.js" />
     <Content Include="style\maincss.css" />

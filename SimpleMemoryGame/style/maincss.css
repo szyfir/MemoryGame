@@ -4,7 +4,7 @@
 	text-align:center;
 	background-color:black;
 	color:#ff9c00;
-	font-size:60px;
+	font-size:50px;
 
 
 }
@@ -13,6 +13,7 @@
 	text-decoration:none;
 	color:#ff9c00;
 }
+
 a.link:hover
 {
 	color:#ffd800;  

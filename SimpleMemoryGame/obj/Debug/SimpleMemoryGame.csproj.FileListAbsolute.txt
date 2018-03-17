@@ -28,6 +28,6 @@ D:\GIT_REPO\SimpleMemoryGame\SimpleMemoryGame\bin\Microsoft.AI.Web.xml
 D:\GIT_REPO\SimpleMemoryGame\SimpleMemoryGame\bin\Microsoft.AI.WindowsServer.xml
 D:\GIT_REPO\SimpleMemoryGame\SimpleMemoryGame\bin\Microsoft.ApplicationInsights.xml
 D:\GIT_REPO\SimpleMemoryGame\SimpleMemoryGame\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\GIT_REPO\SimpleMemoryGame\SimpleMemoryGame\obj\Debug\SimpleMemoryGame.csprojResolveAssemblyReference.cache
 D:\GIT_REPO\SimpleMemoryGame\SimpleMemoryGame\obj\Debug\SimpleMemoryGame.dll
 D:\GIT_REPO\SimpleMemoryGame\SimpleMemoryGame\obj\Debug\SimpleMemoryGame.pdb
+D:\GIT_REPO\SimpleMemoryGame\SimpleMemoryGame\obj\Debug\SimpleMemoryGame.csprojResolveAssemblyReference.cache
